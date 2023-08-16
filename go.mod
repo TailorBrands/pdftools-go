@@ -1,3 +1,3 @@
-module github.com/patiek/go-pdftools
+module github.com/tailorbrands/pdftools-go
 
 go 1.14
