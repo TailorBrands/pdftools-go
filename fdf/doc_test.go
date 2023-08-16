@@ -2,7 +2,7 @@ package fdf_test
 
 import (
 	"bytes"
-	"github.com/patiek/go-pdftools/fdf"
+	"github.com/tailorbrands/pdftools-go/fdf"
 	"os"
 )
 
